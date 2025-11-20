@@ -1,3 +1,3 @@
-Primer proyecto de analítica 
-Este repositorio es el primer proyecto de ciencia de datos
+#Primer proyecto de analítica 
 Proyecto con BMW
+Este repositorio es el primer proyecto de ciencia de datos
