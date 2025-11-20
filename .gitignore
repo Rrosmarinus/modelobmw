@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swp
+
+# Datos y archivos grandes
+*.cvs
+*.xlsx
+*.db
+*.sqlite
+data/
